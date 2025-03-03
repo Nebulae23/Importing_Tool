@@ -6,6 +6,17 @@ This tool helps you synchronize your manga reading progress between your local l
 
 Created by [Nebulae23](https://github.com/Nebulae23)
 
+This tool is specifically for importing manga progress to AniList/MyAnimeList. For generating the input file (`manga_bookmarks.txt`), you can use the [Manga Bookmarks Export](https://greasyfork.org/en/scripts/390432-mananelo-mangakakalot-manganato-manga4life-bookmarks-export) userscript by sm00nie (Note: I don't maintain the export script, I'm only the author of this AniList import tool).
+
+### Supported Source Sites
+The input file can be generated from bookmarks on:
+- Mangakakalot
+- Manganelo
+- Manganato
+- Manga4life
+
+Note: When using the export script, you'll need to remove the first 3 lines from the generated file before using it with this tool.
+
 ## Features
 
 - Imports manga reading progress from a local text file to AniList
