@@ -10,10 +10,11 @@ This tool is specifically for importing manga progress to AniList/MyAnimeList. F
 
 ### Supported Source Sites
 The input file can be generated from bookmarks on:
-- Mangakakalot
-- Manganelo
-- Manganato
-- Manga4life
+- mangakakalot.fun
+- mangakakalot.gg
+- nelomanga.com
+- natomanga.com
+- manganato.gg
 
 Note: When using the export script, you'll need to remove the first 3 lines from the generated file before using it with this tool.
 
