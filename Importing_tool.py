@@ -9,13 +9,13 @@ import base64
 from googlesearch import search
 
 # AniList API credentials
-CLIENT_ID = "1234567890"
-CLIENT_SECRET = "1234567890"
+CLIENT_ID = "YOUR_CLIENT_ID"
+CLIENT_SECRET = "YOUR_CLIENT_SECRET"
 REDIRECT_URI = "http://localhost:8080"  # Must match the redirect URI registered in your AniList app
 
 # MyAnimeList API credentials
-MAL_CLIENT_ID = "1234567890"
-MAL_CLIENT_SECRET = "1234567890"  # Add your MAL client secret here
+MAL_CLIENT_ID = "YOUR_CLIENT_ID"
+MAL_CLIENT_SECRET = "YOUR_CLIENT_SECRET"  # Add your MAL client secret here
 MAL_REDIRECT_URI = "http://localhost:8080"  # Make sure this matches exactly what's registered in MAL
 
 # AniList API endpoints
